@@ -1,0 +1,10 @@
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\bin\Debug\StartMongoDbServer.exe.config
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\bin\Debug\StartMongoDbServer.exe
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\bin\Debug\StartMongoDbServer.pdb
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\obj\Debug\StartMongoDbServer.csprojResolveAssemblyReference.cache
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\obj\Debug\StartMongoDbServer.Form1.resources
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\obj\Debug\StartMongoDbServer.Properties.Resources.resources
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\obj\Debug\StartMongoDbServer.csproj.GenerateResource.cache
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\obj\Debug\StartMongoDbServer.csproj.CoreCompileInputs.cache
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\obj\Debug\StartMongoDbServer.exe
+c:\users\quangphat\source\repos\StartMongoServer\StartMongoDbServer\obj\Debug\StartMongoDbServer.pdb

@@ -22,19 +22,31 @@ namespace StartMongoDbServer
         private void StartCmd1()
         {
             Process process = new Process();
-            ProcessStartInfo processInfo = new ProcessStartInfo(@"D:\MongoDb\cmd1.bat");
+            ProcessStartInfo processInfo = new ProcessStartInfo(@"D:\Development\my8\MongoDb\cmd1.bat");
             process.StartInfo = processInfo;
             process.Start();
         }
         private void StartCmd2()
         {
             Process process = new Process();
-            ProcessStartInfo processInfo = new ProcessStartInfo(@"D:\MongoDb\cmd2.bat");
+            ProcessStartInfo processInfo = new ProcessStartInfo(@"D:\Development\my8\MongoDb\cmd2.bat");
             process.StartInfo = processInfo;
             process.Start();
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+            StartCmd1();
+            var t = Task.Run(async delegate
+            {
+                await Task.Delay(2000);
+            });
+            t.Wait();
+            StartCmd2();
+            label1.Show();
+        }
+
+        private void btnRestart_Click(object sender, EventArgs e)
         {
             StartCmd1();
             var t = Task.Run(async delegate

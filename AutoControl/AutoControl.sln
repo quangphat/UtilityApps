@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoControl", "AutoControl\AutoControl.csproj", "{573AAC7E-2452-4089-BD7B-863978B6CB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{730BD34A-588A-4E9A-8DF6-86F98C7B99D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{573AAC7E-2452-4089-BD7B-863978B6CB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573AAC7E-2452-4089-BD7B-863978B6CB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573AAC7E-2452-4089-BD7B-863978B6CB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573AAC7E-2452-4089-BD7B-863978B6CB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730BD34A-588A-4E9A-8DF6-86F98C7B99D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730BD34A-588A-4E9A-8DF6-86F98C7B99D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730BD34A-588A-4E9A-8DF6-86F98C7B99D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730BD34A-588A-4E9A-8DF6-86F98C7B99D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

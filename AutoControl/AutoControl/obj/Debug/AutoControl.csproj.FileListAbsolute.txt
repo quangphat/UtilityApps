@@ -1,0 +1,13 @@
+c:\users\quang phat\documents\visual studio 2012\Projects\AutoControl\AutoControl\obj\Debug\AutoControl.csprojResolveAssemblyReference.cache
+c:\users\quang phat\documents\visual studio 2012\Projects\AutoControl\AutoControl\bin\Debug\AutoControl.dll
+c:\users\quang phat\documents\visual studio 2012\Projects\AutoControl\AutoControl\bin\Debug\AutoControl.pdb
+c:\users\quang phat\documents\visual studio 2012\Projects\AutoControl\AutoControl\bin\Debug\ModernUI.Design.dll
+c:\users\quang phat\documents\visual studio 2012\Projects\AutoControl\AutoControl\bin\Debug\ModernUI.dll
+c:\users\quang phat\documents\visual studio 2012\Projects\AutoControl\AutoControl\bin\Debug\ModernUI.Fonts.dll
+c:\users\quang phat\documents\visual studio 2012\Projects\AutoControl\AutoControl\obj\Debug\AutoControl.dll
+c:\users\quang phat\documents\visual studio 2012\Projects\AutoControl\AutoControl\obj\Debug\AutoControl.pdb
+D:\Development\AutoControl\AutoControl\bin\Debug\AutoControl.dll
+D:\Development\AutoControl\AutoControl\bin\Debug\AutoControl.pdb
+D:\Development\AutoControl\AutoControl\obj\Debug\AutoControl.dll
+D:\Development\AutoControl\AutoControl\obj\Debug\AutoControl.pdb
+D:\Development\AutoControl\AutoControl\obj\Debug\AutoControl.csprojResolveAssemblyReference.cache
